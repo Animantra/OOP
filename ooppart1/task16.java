@@ -1,6 +1,7 @@
 public class task16 {
     public static void main(String[] args) throws Exception {
 
+
     }
 
     public interface Animal {
